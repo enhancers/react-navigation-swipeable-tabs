@@ -1,27 +1,11 @@
 {
-  "name": "@react-navigation/material-top-tabs",
-  "description": "Integration for the animated tab view component from react-native-tab-view",
-  "version": "5.2.16",
+  "name": "react-navigation-swipeable-tabs",
+  "description": "",
+  "version": "1.0.0",
   "keywords": [
-    "react-native-component",
-    "react-component",
-    "react-native",
-    "react-navigation",
-    "ios",
-    "android",
-    "material",
-    "tab"
+    "android"
   ],
   "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/react-navigation/react-navigation.git",
-    "directory": "packages/material-top-tabs"
-  },
-  "bugs": {
-    "url": "https://github.com/react-navigation/react-navigation/issues"
-  },
-  "homepage": "https://reactnavigation.org/docs/material-top-tab-navigator.html",
   "main": "lib/commonjs/index.js",
   "react-native": "src/index.tsx",
   "source": "src/index.tsx",
@@ -29,7 +13,7 @@
   "types": "lib/typescript/src/index.d.ts",
   "files": [
     "src",
-    "lib",
+    "lib"
   ],
   "sideEffects": false,
   "publishConfig": {
