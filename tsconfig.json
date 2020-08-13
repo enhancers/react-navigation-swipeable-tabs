@@ -1,6 +1,6 @@
 {
-
   "compilerOptions": {
-    "outDir": "./lib/typescript"
+    "outDir": "./lib/typescript",
+    "jsx": "react-native"
   }
 }
