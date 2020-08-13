@@ -30,7 +30,6 @@
   "files": [
     "src",
     "lib",
-    "!**/__tests__"
   ],
   "sideEffects": false,
   "publishConfig": {
